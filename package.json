@@ -1,0 +1,16 @@
+{
+  "name": "github-gitlab-pipeline",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balazs4/github-gitlab-pipeline.git"
+  },
+  "author": "balazs4",
+  "license": "MIT",
+  "devDependencies": {
+    "baretest": "2.0.0"
+  }
+}
